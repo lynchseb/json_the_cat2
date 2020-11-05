@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/lynchseb/json_the_cat2#readme",
   "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
     "request": "^2.88.2"
   }
 }
